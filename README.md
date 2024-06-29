@@ -13,7 +13,8 @@
 2 通过 conda 部署 Python 环境，Python 版本为 3.8；
 3 通过 pip安装 PyQt5
 4 点击 My_Elevator.exe，或运行My_Elevator.py即可运行程序
-5 My_Elevator.exe 一 定 要 与 background.png ， door_close.jpg ， door_half.jpg，door_open.jpg 四张图片放在一个目录下。
+5 My_Elevator.exe 一 定 要 与 background.png ， door_close.jpg ，
+door_half.jpg，door_open.jpg 四张图片放在一个目录下。
 ```
     
 ## 在本地运行
@@ -21,13 +22,13 @@
 Clone 这个 project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/SunnyZhang902/Sunny-OS_2024_TongJi_1.git
 ```
 
 前往项目目录
 
 ```bash
-  cd my-project
+  cd Sunny-OS_2024_TongJi_1
 ```
 
 安装依赖
